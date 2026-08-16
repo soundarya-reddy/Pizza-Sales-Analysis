@@ -145,7 +145,7 @@ The dashboard helps answer key business questions such as:
 (Add screenshots of both Power BI pages here)
 
 * `Home_Page.png`
-  https://github.com/soundarya-reddy/Pizza-Sales-Analysis/blob/main/Home%20Page.PNG?raw=true
+  https://github.com/soundarya-reddy/Pizza-Sales-Analysis/blob/9053a956e69a3d22415ca7ccd8100282a9700229/Home%20Page.PNG
   
 * `Best_Worst_Sellers.png`
 
