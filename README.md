@@ -144,11 +144,11 @@ The dashboard helps answer key business questions such as:
 
 (Add screenshots of both Power BI pages here)
 
-* `Home_Page.png`
+* `Home_Page`
  ![image alt](https://github.com/soundarya-reddy/Pizza-Sales-Analysis/blob/b3e4b1e1dadc01330cf5d03337dbb948bca1f441/Home%20Page.PNG)
   
-* `Best_Worst_Sellers.png`
- ![image alt]()
+* `Best_Worst_Sellers
+ ![image alt](https://github.com/soundarya-reddy/Pizza-Sales-Analysis/blob/abe96899589f855af9ca1ab5bc259e4b675b19ed/seller%20page.PNG)
 ---
 
 # 📁 Repository Structure
