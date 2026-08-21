@@ -158,7 +158,6 @@ Pizza-Sales-Analysis/
 │
 ├── SQL/
 │   └── pizza_sales_analysis.sql
-│   └── pizza_sales_qeries and results
 │
 ├── Dashboard/
 │   ├── Pizza_Sales_Dashboard.pbix
